@@ -1,6 +1,6 @@
 # Do What The Fuck You Want Public License Plus (WTFPL+)
 
-<img src="./README.assets/736e0fdd-68c3-4ad5-856c-1336a26c3eeb.png" alt="736e0fdd-68c3-4ad5-856c-1336a26c3eeb" style="zoom: 33%;" />
+<img src="./README.assets/736e0fdd-68c3-4ad5-856c-1336a26c3eeb.png" alt="736e0fdd-68c3-4ad5-856c-1336a26c3eeb" style="zoom: 33%; width:300px" />
 
 **Version 1.0.0 – August 2025**
 
