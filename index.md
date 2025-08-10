@@ -2,7 +2,7 @@
 title: WTFPL+
 author: Copyright © 2025 Norbert Heimsath 
 date: Version 1.0.0 – August 2025
-license:(https://github.com/NorHei/WTFPL_Plus)
+license: (https://github.com/NorHei/WTFPL_Plus)
 ---
 
 # Do What The Fuck You Want Public License Plus (WTFPL+)
