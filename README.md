@@ -1,6 +1,6 @@
 # Do What The Fuck You Want Public License Plus (WTFPL+)
 
-<img src="./README.assets/736e0fdd-68c3-4ad5-856c-1336a26c3eeb.png" alt="736e0fdd-68c3-4ad5-856c-1336a26c3eeb" style="zoom: 33%;" />
+<img src="./README.assets/736e0fdd-68c3-4ad5-856c-1336a26c3eeb.png" alt="736e0fdd-68c3-4ad5-856c-1336a26c3eeb" style="width: 400px" />
 
 **Version 1.0.0 – August 2025**
 
@@ -132,7 +132,7 @@ Here are just some examples:
 
 
 
-<img src="./README.assets/ChatGPT Image 9. Aug. 2025, 21_41_13.png" alt="ChatGPT Image 9. Aug. 2025, 21_41_13" style="zoom: 25%;" />
+<img src="./README.assets/ChatGPT Image 9. Aug. 2025, 21_41_13.png" alt="ChatGPT Image 9. Aug. 2025, 21_41_13" style="width: 400px" />
 
 
 
